@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "podlib"
-  s.version      = "0.1.1"
+  s.version      = "0.1.2"
   s.summary      = "hhh"
 
   s.description  = "hhh111"
@@ -25,7 +25,6 @@ Pod::Spec.new do |s|
 
   s.exclude_files = "Classes/Exclude"
 
-  s.frameworks = 'UIKit'
 
 
 end
