@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "podlib"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "hhh"
 
   s.description  = "hhh111"
@@ -13,7 +13,6 @@ Pod::Spec.new do |s|
 
 
   s.license      = "MIT"
-
 
 
   s.author             = { "yinhao0828" => "email@address.com" }
@@ -25,7 +24,7 @@ Pod::Spec.new do |s|
   s.source_files  = 'podlib/Classes/**/*.{h,m}'
 
   s.exclude_files = "Classes/Exclude"
-  
+
   s.frameworks = 'UIKit'
 
 
