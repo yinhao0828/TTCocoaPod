@@ -1,0 +1,16 @@
+PODS:
+  - podlib (0.1.0)
+
+DEPENDENCIES:
+  - podlib (from `../`)
+
+EXTERNAL SOURCES:
+  podlib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  podlib: 4cadf6dba038dc067c3e39414c0a5da26737df4c
+
+PODFILE CHECKSUM: 6f36e26d527b557e45a8cd8fd2207140c7881506
+
+COCOAPODS: 1.1.1
