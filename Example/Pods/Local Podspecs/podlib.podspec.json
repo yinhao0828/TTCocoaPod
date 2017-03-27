@@ -1,22 +1,24 @@
 {
   "name": "podlib",
   "version": "0.1.0",
-  "summary": "A short description of podlib.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/yin/podlib",
-  "license": {
-    "type": "MIT",
-    "file": "LICENSE"
-  },
+  "summary": "hhh",
+  "description": "hhh111",
+  "homepage": "https://github.com/yinhao0828/TTCocoaPod",
+  "license": "MIT",
   "authors": {
-    "yin": "yinhao@bytedance.com"
+    "yinhao0828": "email@address.com"
   },
   "source": {
-    "git": "https://github.com/yin/podlib.git",
+    "git": "https://github.com/yinhao0828/TTCocoaPod.git",
     "tag": "0.1.0"
   },
+  "source_files": "podlib/Classes/**/*.{h,m}",
+  "exclude_files": "Classes/Exclude",
+  "frameworks": "UIKit",
   "platforms": {
-    "ios": "8.0"
-  },
-  "source_files": "podlib/Classes/**/*"
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
 }
